@@ -111,6 +111,8 @@ header img {
 }
 .form-contactme textarea {
 height: 80px;
+min-width: 100px;
+min-height: 40px;
 }
 .form-contactme button {
 
